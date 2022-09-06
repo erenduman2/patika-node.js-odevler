@@ -1,1 +1,0 @@
-# patika-node.js-odevler
